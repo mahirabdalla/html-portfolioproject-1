@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    
+<head> 
+    <h1>My Resume</h1>
+</head>
+<hr />
+
+<body>
+
+    <ul> <h2>
+        <li>Summary or objective statement</li>
+        <li>Education (list degrees, schools, and dates)</li>
+        <li>Work experience (list job titles, employers, dates, and responsibilities)</li>
+        <li>Skills (list relevant skills or areas of expertise)</li>
+        <li>Awards, certifications, or other achievements (list any relevant awards, certifications, or other accomplishments)</li>
+    </h2></ul>
+    <img src="./IMG_20200221_075753 (2).jpg" height="200" alt="ma nigga mahir"/>
+    <hr />
+    <a href="../public/about.html">about me</a> 
+    <a href="../public/contact.html">contact me</a>
+    <footer>Copyright © Mahir abdalla</footer>
+    
+</body>
